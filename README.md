@@ -7,7 +7,7 @@ Im Rahmen des Moduls "Algorithmen, Daten und Programmieren" an der Hochschule Lu
 * Wörter-, Leerzeichen- und Zeichenzähler: Hier kann ein Satz eingegeben werden. Der Code berechnet dann die Wörter-, Leerzeichen- und Zeichenanzahl und gibt diese aus. 
 
 ## Verwendung
-Die Codes können direkt in einen entsprechenden Interpreter übernommen und dort ausgeführt werden. 
+Die Codes können direkt in einen entsprechenden Interpreter (z.B. [OnlineGDB](https://www.onlinegdb.com/)) übernommen und dort ausgeführt werden. 
 
 ## Autorin
 Janine Küng - Studentin HSLU
